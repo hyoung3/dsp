@@ -46,13 +46,13 @@ cross-platform.
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I installed both. I have been using python for over a year now and wanted to use 3.x's string functionality, especially to parse binary strings. However, I also needed 2.x for a library I use called dedupe to deduplicate data sets. Dedupe requires version 2.x.
 
 ###Q2. Which Python Version Installed   
 
 How can you check the version of Python installed if you happen to be on an unfamiliar computer?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> in the command line, type in python --version
 
  
 
